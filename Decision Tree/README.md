@@ -9,4 +9,4 @@
 ###绘树形图
 >test.py
 ###决策树理论知识
->zhu-dq.github.io
+>http://zhu-dq.github.io/%E7%AE%97%E6%B3%95/2015/04/24/jueceshu.html
