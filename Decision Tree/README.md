@@ -1,0 +1,12 @@
+#决策树
+>主要实现了决策树的ID3算法
+###输入数据
+>data.txt
+###输出数据
+>out.txt
+###测试数据
+>test.txt
+###绘树形图
+>test.py
+###决策树理论知识
+>zhu-dq.github.io
