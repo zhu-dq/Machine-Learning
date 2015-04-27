@@ -10,3 +10,6 @@
 >test.py
 ###决策树理论知识
 >http://zhu-dq.github.io/%E7%AE%97%E6%B3%95/2015/04/24/jueceshu.html
+
+### 结果
+![这里写图片描述](http://img.blog.csdn.net/20150427185422144)
