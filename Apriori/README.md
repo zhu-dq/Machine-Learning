@@ -1,4 +1,4 @@
-# apriori 算法
+﻿# apriori 算法
 
 - **输入数据**
 > input1.txt <br>
@@ -10,4 +10,5 @@
 > 终端输出所有频繁序列 
 
 - **理论知识**
+> http://zhu-dq.github.io/%E7%AE%97%E6%B3%95/2015/06/16/apriori.html
 
